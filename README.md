@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @otFaria
-- 👀 I’m interested in computing
+## My name is Otávio Teixeira
+  ![kiss-cat](https://github.com/otFaria/orientacao-a-objetos/assets/163035228/9a3b0a8b-e7ad-4c39-a486-bfd0f51ead75)
 
 - ## Ferramentas e Tecnologias
 
